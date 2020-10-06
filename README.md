@@ -13,7 +13,7 @@ Pode-se dividir o projeto em duas partes:
     * Exemplo de funcionamento do motor:
         1. Um produto é cadastrado no banco de dados com as seguintes caracteristicas:
             * cor: vermelho;
-            * tipo: brinquero;
+            * tipo: brinquedo;
             * codigo_gtin: 12345678
         2. O motor captura o produto recem cadastrado e analisa segundo um conjunto de regras.
             * Uma regra pode verificar se a cor do produto é vermelha, nesse caso o resultado é positivo.
