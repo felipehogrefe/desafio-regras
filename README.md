@@ -22,7 +22,7 @@ Devem ser implementados:
     * API para consulta de classificação de produtos.
  
 Principais quesistos analisados:
-* Implementação des testes:
+* Implementação de testes:
     * São recomendadas metodologias de implementação como TDD e BDD.
 * Qualidade do código:
     * Clareza;
