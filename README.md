@@ -31,6 +31,9 @@ Principais quesistos analisados:
 
 Deve-se utilizar a linguagem Python 3.5 ou superior e Django 1.11 ou superior.
 
-São dados exemplos de modelos de dados na seguinte fixture: [exemplos](https://github.com/felipehogrefe/desafio-regras/blob/main/fixtures.json). Note que estes modelos podem ser alterados.
+São dados exemplos de modelos de dados na seguinte fixture: [exemplos](https://github.com/felipehogrefe/desafio-regras/blob/main/fixtures.json). \
+Estes modelos podem ser alterados, adicionando campos aos modelos ou criando novos modelos. \
+Note que as regras são algo crucial ao sistema, você pode criar novas regras e/ou editar as existentes. 
+
 
 

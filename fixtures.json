@@ -7,6 +7,22 @@
         "valor": "vermelho"
     }
 },
+  {
+    "model": "processamento.regra",
+    "pk": 1,
+    "fields": {
+        "campo": "cor",
+        "valor": "azul"
+    }
+},
+  {
+    "model": "processamento.regra",
+    "pk": 2,
+    "fields": {
+        "campo": "tipo",
+        "valor": "eletrodomestico"
+    }
+},
 {
     "model": "base.produto",
     "pk": 0,
@@ -24,6 +40,24 @@
         "produto": 0,
         "regra": 0,
         "resultado": true
+    }
+},
+{
+    "model": "processamento.classificacao",
+    "pk": 1,
+    "fields": {
+        "produto": 0,
+        "regra": 1,
+        "resultado": false
+    }
+},
+{
+    "model": "processamento.classificacao",
+    "pk": 1,
+    "fields": {
+        "produto": 0,
+        "regra": 2,
+        "resultado": false
     }
 }
 ]
