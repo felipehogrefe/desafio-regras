@@ -13,7 +13,8 @@
     "fields": {
         "cor": "vermelho",
         "codigo_gtin": "12345678",
-        "tipo": "brinquedo"
+        "tipo": "brinquedo",
+        "processado": true
     }
 },
 {
