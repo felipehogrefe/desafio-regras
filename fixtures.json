@@ -1,0 +1,28 @@
+[
+{
+    "model": "processamento.regra",
+    "pk": 0,
+    "fields": {
+        "campo": "cor",
+        "valor": "vermelho"
+    }
+},
+{
+    "model": "base.produto",
+    "pk": 0,
+    "fields": {
+        "cor": "vermelho",
+        "codigo_gtin": "12345678",
+        "tipo": "brinquedo"
+    }
+},
+{
+    "model": "processamento.classificacao",
+    "pk": 0,
+    "fields": {
+        "produto": 0,
+        "regra": 0,
+        "resultado": true
+    }
+}
+]
