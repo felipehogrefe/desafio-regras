@@ -15,7 +15,7 @@ Pode-se dividir o projeto em duas partes:
             * cor: vermelho;
             * tipo: brinquedo;
             * codigo_gtin: 12345678
-        2. O motor captura o produto recem cadastrado e analisa segundo um conjunto de regras.
+        2. O motor captura o produto recém cadastrado e analisa segundo um conjunto de regras.
             * Uma regra pode verificar se a cor do produto é vermelha, nesse caso o resultado é positivo.
         3. Para cada regra uma classificação é cadastrada de forma a informar o resultado.
     
