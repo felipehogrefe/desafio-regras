@@ -8,7 +8,7 @@ O sistema a ser implementado consiste em um motor de análise de produtos, onde 
 
 Pode-se dividir o projeto em duas partes:
 1. Motor de análise:
-    * Script que periódicamente checa se existem produtos não análisados e em caso positivo irá processar a classificação daquele produto.
+    * Script (batch) que periódicamente checa se existem produtos não análisados e em caso positivo irá processar a classificação daquele produto.
         * Os produtos devem ser processados segundo regras. Por exemplo: análisar se o produto tem a caracteristica cor igual a vermelho, e então criar um objeto para registrar este resultado.
     * Exemplo de funcionamento do motor:
         1. Um produto é cadastrado no banco de dados com as seguintes caracteristicas:
